@@ -8,7 +8,7 @@ How to compile MyCar Program
 
 MAIN METHOD:
 
-1. Navigate to "..\S3579878_A1" using 'cd' command.
+1. Navigate to root using 'cd' command.
 
 2. Run 'javac Main.java' to load the classes. 
 
